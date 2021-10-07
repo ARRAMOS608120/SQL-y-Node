@@ -1,0 +1,21 @@
+{
+  "name": "entregable",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+
+  "scripts": {
+    "start": "node src/main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.2.0",
+    "knex": "^0.95.11",
+    "mysql": "^2.18.1",
+    "socket.io": "^4.2.0",
+    "sqlite3": "^5.0.2"
+  }
+}
